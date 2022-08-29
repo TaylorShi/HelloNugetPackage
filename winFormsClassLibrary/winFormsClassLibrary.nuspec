@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <icon>images\icon.png</icon>
+    <readme>docs\readme.md</readme>
+    <projectUrl>https://www.nuget.org/packages?q=Microsoft.Extensions.Logging</projectUrl>
+    <description>$description$</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>Microsoft TestPackage</tags>
+  </metadata>
+  <files>
+    <file src=".\icon.png" target="images\" />
+    <file src=".\readme.md" target="docs\" />
+  </files>
+</package>
